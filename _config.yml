@@ -6,9 +6,9 @@ color:
   saturation: 0.2990858170669526
   rhythmicContrast: 0.285688245203346
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
 name: The Bats of Ballard

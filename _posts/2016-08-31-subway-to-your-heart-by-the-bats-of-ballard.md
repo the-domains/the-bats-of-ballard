@@ -1,23 +1,21 @@
 ---
-author: []
+datePublished: '2016-08-31T05:49:38.279Z'
+sourcePath: _posts/2016-08-31-subway-to-your-heart-by-the-bats-of-ballard.md
+isBasedOnUrl: 'http://weedshare.com/p.php?q=336'
+keywords: []
 related: []
+author: []
+via: {}
+dateModified: '2016-08-31T05:49:37.864Z'
+title: Subway To Your Heart by The Bats of Ballard
+app_links: []
 publisher:
   url: 'http://weedshare.com'
   name: Weedshare
   favicon: null
   domain: weedshare.com
-keywords: []
-description: >-
-  This music is being shared with Weedshare™. It's always free to listen to
-  Weedshare tracks and you're always free to share them.
-app_links: []
-isBasedOnUrl: 'http://weedshare.com/p.php?q=336'
-title: Subway To Your Heart by The Bats of Ballard
-datePublished: '2016-08-31T05:02:18.330Z'
-dateModified: '2016-08-31T04:42:04.009Z'
-via: {}
+description: 'July 2014, Dark Side of the Room'
 starred: false
-sourcePath: _posts/2016-08-31-subway-to-your-heart-by-the-bats-of-ballard.md
 inFeed: true
 hasPage: false
 inNav: false
@@ -25,4 +23,6 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Subway To Your Heart by The Bats of Ballard</h1><p>This music is being shared with Weedshare™. It's always free to listen to Weedshare tracks and you're always free to share them.</p><img src="http://weedshare.com/uploads/5/subwaytoyourheart-cover.png" /></article>
+<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/7f97c27dabff909fd1ff683b5d26dc15/noop.png?input=http%3A%2F%2Fweedshare.com%2Fuploads%2F5%2Fsubwaytoyourheart-cover.png" /><h1>Subway To Your Heart by The Bats of Ballard</h1></article>
+
+July 2014, Dark Side of the Room

@@ -1,10 +1,10 @@
 ---
 id: 94a8fb26-558c-43d8-98ae-3e5bdcdc9f33
-dateModified: '2016-08-31T05:36:39.065Z'
+dateModified: '2016-08-31T05:41:11.286Z'
 title: >-
   The Bats of Ballard have been playing for several years in an undisclosed
   location in Seattle. Here are 20 examples of our work.
-datePublished: '2016-08-31T05:36:39.444Z'
+datePublished: '2016-08-31T05:41:11.696Z'
 author: []
 description: ''
 publisher: {}

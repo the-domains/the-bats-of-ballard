@@ -4,7 +4,7 @@
         <description><![CDATA[Live from the Player's Lounge and beyond...]]></description>
         <link>https://thegrid.ai/the-bats-of-ballard/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 05:27:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 05:28:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-bats-of-ballard/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Only One Way by The Bats of Ballard]]></title>
@@ -49,6 +49,13 @@
             <pubDate>Wed, 31 Aug 2016 05:15:54 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[I'm A Train by Bats Of Ballard]]></title>
+            <description><![CDATA[<article><h1>I'm A Train by Bats Of Ballard</h1><p>November 2015, Fall Bats</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/5de8d9fc9f1c7b5fb2aac8775d1da076/noop.png?input=http%3A%2F%2Fweedshare.com%2Fuploads%2F5%2Fcover-imatrain-fallbats.png"></article>]]></description>
+            <link>http://weedshare.com/p.php?q=416</link>
+            <guid isPermaLink="false">ebd3181e-6a3d-4317-b6c2-5ada928e9cf1</guid>
+            <pubDate>Wed, 31 Aug 2016 05:28:22 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Nowhere To Go by The Bats of Ballard]]></title>
             <description><![CDATA[<article><h1>Nowhere To Go by The Bats of Ballard</h1><p>June 2015, Solstice Bats</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/5cd9f893e622e81cfc1f616844e2b02a/noop.png?input=http%3A%2F%2Fweedshare.com%2Fuploads%2F5%2Fcover-nowheretogo.png"></article>]]></description>
             <link>http://weedshare.com/p.php?q=407</link>
@@ -68,13 +75,6 @@
             <link>http://weedshare.com/p.php?q=389</link>
             <guid isPermaLink="false">aee97e60-e774-4223-892d-5919d04bbe17</guid>
             <pubDate>Wed, 31 Aug 2016 05:24:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Subway To Your Heart by The Bats of Ballard]]></title>
-            <description><![CDATA[<article><h1>Subway To Your Heart by The Bats of Ballard</h1><p>This music is being shared with Weedshare™. It's always free to listen to Weedshare tracks and you're always free to share them.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/7f97c27dabff909fd1ff683b5d26dc15/noop.png?input=http%3A%2F%2Fweedshare.com%2Fuploads%2F5%2Fsubwaytoyourheart-cover.png"></article>]]></description>
-            <link>http://weedshare.com/p.php?q=336</link>
-            <guid isPermaLink="false">e2d4fbaf-c457-4193-b3b5-a5eb2aeb35b7</guid>
-            <pubDate>Wed, 31 Aug 2016 05:02:18 GMT</pubDate>
         </item>
     </channel>
 </rss>

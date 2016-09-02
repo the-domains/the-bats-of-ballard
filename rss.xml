@@ -4,7 +4,7 @@
         <description><![CDATA[Live from the Player's Lounge and beyond...]]></description>
         <link>https://thegrid.ai/the-bats-of-ballard/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 05:30:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 05:31:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-bats-of-ballard/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Only One Way by The Bats of Ballard]]></title>
@@ -49,8 +49,15 @@
             <pubDate>Wed, 31 Aug 2016 05:15:54 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[I'm Gonna Try by The Bats of Ballard]]></title>
+            <description><![CDATA[<article><h1>I'm Gonna Try by The Bats of Ballard</h1><p>August 2014, Birthday Bats</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/9ff53811b7ec3a8ff924bfbe8595eb2f/noop.png?input=http%3A%2F%2Fweedshare.com%2Fuploads%2F5%2Fimgonnatry-cover.png"></article>]]></description>
+            <link>http://weedshare.com/p.php?q=342</link>
+            <guid isPermaLink="false">18725010-78d4-4165-8ddf-e07af417e3ed</guid>
+            <pubDate>Wed, 31 Aug 2016 05:31:07 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tied To The Mast / Keep The Ghosts At Bay by Bats of Ballard]]></title>
-            <description><![CDATA[<article><h1>Tied To The Mast / Keep The Ghosts At Bay by Bats of Ballard</h1><p>August 2015, Hot Bats</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/4941a5b7b47e3962037c2ef66e985f2e/noop.png?input=http%3A%2F%2Fweedshare.com%2Fuploads%2F5%2Fghosts-mast-hotbats.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Tied To The Mast / Keep The Ghosts At Bay by Bats of Ballard</h1><p>August 2015, Hot Bats</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/11ff8b056eb1166590df08281e9eb8785c829951.png"></article>]]></description>
             <link>http://weedshare.com/p.php?q=393</link>
             <guid isPermaLink="false">61ce56f7-8821-422d-ad1e-bee78ffbf65d</guid>
             <pubDate>Wed, 31 Aug 2016 05:30:29 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://weedshare.com/p.php?q=407</link>
             <guid isPermaLink="false">e862f80d-20a9-449e-b7b1-c62ef6794133</guid>
             <pubDate>Wed, 31 Aug 2016 05:27:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Innocent Bystander by Bats of Ballard]]></title>
-            <description><![CDATA[<article><h1>Innocent Bystander by Bats of Ballard</h1><p>June 2015, Solstice Bats</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/206ea88d7abccc880566edbb7503f15f/noop.png?input=http%3A%2F%2Fweedshare.com%2Fuploads%2F5%2Fcover-innocentbystander.png"></article>]]></description>
-            <link>http://weedshare.com/p.php?q=410</link>
-            <guid isPermaLink="false">195ac347-9bd4-4155-9f2a-b3c92a3af0b4</guid>
-            <pubDate>Wed, 31 Aug 2016 05:25:35 GMT</pubDate>
         </item>
     </channel>
 </rss>

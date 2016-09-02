@@ -1,28 +1,25 @@
 ---
+datePublished: '2016-08-31T05:13:36.073Z'
+isBasedOnUrl: 'http://weedshare.com/p.php?q=352'
 author: []
-related: []
+via: {}
+dateModified: '2016-08-31T05:13:35.742Z'
+title: Adjustments Made by The Bats of Ballard
+id: 8aa1b085-25b4-493d-8f42-0f60be0b64da
 publisher:
   url: 'http://weedshare.com'
   name: Weedshare
   favicon: null
   domain: weedshare.com
-keywords: []
-description: >-
-  This music is being shared with Weedshare™. It's always free to listen to
-  Weedshare tracks and you're always free to share them.
-app_links: []
-isBasedOnUrl: 'http://weedshare.com/p.php?q=352'
-title: Adjustments Made by The Bats of Ballard
-datePublished: '2016-08-31T05:02:18.330Z'
-dateModified: '2016-08-31T04:34:54.806Z'
-via: {}
+description: 'October 2014, Harvest Bats'
 starred: false
 sourcePath: _posts/2016-08-31-adjustments-made-by-the-bats-of-ballard.md
 inFeed: true
 hasPage: false
 inNav: false
-_context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Adjustments Made by The Bats of Ballard</h1><p>This music is being shared with Weedshare™. It's always free to listen to Weedshare tracks and you're always free to share them.</p><img src="http://weedshare.com/uploads/5/adjustments-cover.png" /></article>
+<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/b713b219435f36a146c997e2e03ca0c7/noop.png?input=http%3A%2F%2Fweedshare.com%2Fuploads%2F5%2Fadjustments-cover.png" /><h1>Adjustments Made by The Bats of Ballard</h1></article>
+
+October 2014, Harvest Bats

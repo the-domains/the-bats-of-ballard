@@ -4,7 +4,7 @@
         <description><![CDATA[Live from the Player's Lounge and beyond...]]></description>
         <link>https://thegrid.ai/the-bats-of-ballard/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 05:34:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 05:35:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-bats-of-ballard/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Only One Way by The Bats of Ballard]]></title>
@@ -49,6 +49,13 @@
             <pubDate>Wed, 31 Aug 2016 05:15:54 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Hunter by The Bats of Ballard]]></title>
+            <description><![CDATA[<article><h1>Hunter by The Bats of Ballard</h1><p>September 2015, Gong Hits</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/b0ae964cb4c5bca6f1e64fbba3703b01/noop.png?input=http%3A%2F%2Fweedshare.com%2Fuploads%2F5%2Fhunter-cover.png"></article>]]></description>
+            <link>http://weedshare.com/p.php?q=397</link>
+            <guid isPermaLink="false">a67c69ae-d135-43e4-abe1-efe4be1129b7</guid>
+            <pubDate>Wed, 31 Aug 2016 05:35:21 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[I Can't Lose Myself by The Bats of Ballard]]></title>
             <description><![CDATA[<article><h1>I Can't Lose Myself by The Bats of Ballard</h1><p>July 2014, Hi-Res Bats</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/d0a15474c288512ff1b1f6ceb14ec659/noop.png?input=http%3A%2F%2Fweedshare.com%2Fuploads%2F5%2Ficontlosemyself-cover.png"></article>]]></description>
             <link>http://weedshare.com/p.php?q=377</link>
@@ -68,13 +75,6 @@
             <link>http://weedshare.com/p.php?q=396</link>
             <guid isPermaLink="false">b66f0e70-5468-4d94-82ce-c0a94f562f1a</guid>
             <pubDate>Wed, 31 Aug 2016 05:31:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I'm Gonna Try by The Bats of Ballard]]></title>
-            <description><![CDATA[<article><h1>I'm Gonna Try by The Bats of Ballard</h1><p>August 2014, Birthday Bats</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/9ff53811b7ec3a8ff924bfbe8595eb2f/noop.png?input=http%3A%2F%2Fweedshare.com%2Fuploads%2F5%2Fimgonnatry-cover.png"></article>]]></description>
-            <link>http://weedshare.com/p.php?q=342</link>
-            <guid isPermaLink="false">18725010-78d4-4165-8ddf-e07af417e3ed</guid>
-            <pubDate>Wed, 31 Aug 2016 05:31:07 GMT</pubDate>
         </item>
     </channel>
 </rss>

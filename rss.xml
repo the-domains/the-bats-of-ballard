@@ -4,7 +4,7 @@
         <description><![CDATA[Live from the Player's Lounge and beyond...]]></description>
         <link>https://thegrid.ai/the-bats-of-ballard/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 05:47:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 05:48:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-bats-of-ballard/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Only One Way by The Bats of Ballard]]></title>
@@ -49,6 +49,13 @@
             <pubDate>Wed, 31 Aug 2016 05:15:54 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[AHMF - Single by The Bats of Ballard]]></title>
+            <description><![CDATA[<article><h1>AHMF - Single by The Bats of Ballard</h1><p>September 2014, AHMF</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/84128983633006d28542066866825ff5/noop.png?input=http%3A%2F%2Fweedshare.com%2Fuploads%2F5%2Fahmf-single-cover.png"></article>]]></description>
+            <link>http://weedshare.com/p.php?q=341</link>
+            <guid isPermaLink="false">5e639d6d-3797-40bc-ad24-060deb951b6e</guid>
+            <pubDate>Wed, 31 Aug 2016 05:48:23 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Everything Ends by The Bats of Ballard]]></title>
             <description><![CDATA[<article><h1>Everything Ends by The Bats of Ballard</h1><p>December 2014, Santa Bats</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/7492f3cbcc24e3e548a1bd7f23f2e65f/noop.png?input=http%3A%2F%2Fweedshare.com%2Fuploads%2F5%2Feverythingends-cover.png"></article>]]></description>
             <link>http://weedshare.com/p.php?q=358</link>
@@ -68,13 +75,6 @@
             <link>http://weedshare.com/p.php?q=346</link>
             <guid isPermaLink="false">75354d24-65e5-45c9-839c-2a8615493c64</guid>
             <pubDate>Wed, 31 Aug 2016 05:46:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[First You Did by The Bats of Ballard]]></title>
-            <description><![CDATA[<article><h1>First You Did by The Bats of Ballard</h1><p>June 2015, Solstice Bats</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/da94735ba5d9d7343aac2823bde9348e/noop.png?input=http%3A%2F%2Fweedshare.com%2Fuploads%2F5%2Fcover-firstyoudid.png"></article>]]></description>
-            <link>http://weedshare.com/p.php?q=408%2C5</link>
-            <guid isPermaLink="false">6f445b86-21e7-41e3-9370-f03d1102997a</guid>
-            <pubDate>Wed, 31 Aug 2016 05:45:42 GMT</pubDate>
         </item>
     </channel>
 </rss>

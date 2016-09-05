@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-31T05:41:57.769Z'
+datePublished: '2016-09-02T08:06:56.255Z'
 sourcePath: _posts/2016-08-31-baby-in-my-back-pocket-by-the-bats-of-ballard.md
 isBasedOnUrl: 'http://weedshare.com/p.php?q=360'
 keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-08-31T05:41:57.250Z'
+dateModified: '2016-09-02T08:06:55.648Z'
 title: Baby in my Back Pocket by The Bats of Ballard
 app_links: []
 publisher:
@@ -23,6 +23,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/07e8af718db1a038acd0086753af7458/noop.png?input=http%3A%2F%2Fweedshare.com%2Fuploads%2F5%2Fbabyinbackpocket-cover.png" /><h1>Baby in my Back Pocket by The Bats of Ballard</h1></article>
-
-January 2015, Happy New Bats
+<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/07e8af718db1a038acd0086753af7458/noop.png?input=http%3A%2F%2Fweedshare.com%2Fuploads%2F5%2Fbabyinbackpocket-cover.png" /><h1>Baby in my Back Pocket by The Bats of Ballard</h1><p>January 2015, Happy New Bats</p></article>

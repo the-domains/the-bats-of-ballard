@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-31T05:25:35.524Z'
+datePublished: '2016-09-02T08:03:54.467Z'
 sourcePath: _posts/2016-08-31-innocent-bystander-by-bats-of-ballard.md
 isBasedOnUrl: 'http://weedshare.com/p.php?q=410'
 keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-08-31T05:25:35.194Z'
+dateModified: '2016-09-02T08:03:53.863Z'
 title: Innocent Bystander by Bats of Ballard
 app_links: []
 publisher:
@@ -23,6 +23,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/206ea88d7abccc880566edbb7503f15f/noop.png?input=http%3A%2F%2Fweedshare.com%2Fuploads%2F5%2Fcover-innocentbystander.png" /><h1>Innocent Bystander by Bats of Ballard</h1><p>This music is being shared with Weedshare™. It's always free to listen to Weedshare tracks and you're always free to share them.</p></article>
-
-June 2015, Solstice Bats
+<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/206ea88d7abccc880566edbb7503f15f/noop.png?input=http%3A%2F%2Fweedshare.com%2Fuploads%2F5%2Fcover-innocentbystander.png" /><h1>Innocent Bystander by Bats of Ballard</h1><p>June 2015, Solstice Bats</p></article>

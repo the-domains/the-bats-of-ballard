@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-31T05:31:07.248Z'
+datePublished: '2016-09-02T08:05:09.888Z'
 sourcePath: _posts/2016-08-31-im-gonna-try-by-the-bats-of-ballard.md
 isBasedOnUrl: 'http://weedshare.com/p.php?q=342'
 keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-08-31T05:31:06.604Z'
+dateModified: '2016-09-02T08:05:09.318Z'
 title: I'm Gonna Try by The Bats of Ballard
 app_links: []
 publisher:
@@ -23,6 +23,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/9ff53811b7ec3a8ff924bfbe8595eb2f/noop.png?input=http%3A%2F%2Fweedshare.com%2Fuploads%2F5%2Fimgonnatry-cover.png" /><h1>I'm Gonna Try by The Bats of Ballard</h1></article>
-
-August 2014, Birthday Bats
+<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/9ff53811b7ec3a8ff924bfbe8595eb2f/noop.png?input=http%3A%2F%2Fweedshare.com%2Fuploads%2F5%2Fimgonnatry-cover.png" /><h1>I'm Gonna Try by The Bats of Ballard</h1><p>August 2014, Birthday Bats</p></article>

@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-31T05:45:42.894Z'
+datePublished: '2016-09-02T08:08:08.071Z'
 sourcePath: _posts/2016-08-31-first-you-did-by-the-bats-of-ballard.md
 isBasedOnUrl: 'http://weedshare.com/p.php?q=408%2C5'
 keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-08-31T05:45:42.452Z'
+dateModified: '2016-09-02T08:08:07.616Z'
 title: First You Did by The Bats of Ballard
 app_links: []
 publisher:
@@ -23,6 +23,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/da94735ba5d9d7343aac2823bde9348e/noop.png?input=http%3A%2F%2Fweedshare.com%2Fuploads%2F5%2Fcover-firstyoudid.png" /><h1>First You Did by The Bats of Ballard</h1></article>
-
-June 2015, Solstice Bats
+<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/da94735ba5d9d7343aac2823bde9348e/noop.png?input=http%3A%2F%2Fweedshare.com%2Fuploads%2F5%2Fcover-firstyoudid.png" /><h1>First You Did by The Bats of Ballard</h1><p>June 2015, Solstice Bats</p></article>

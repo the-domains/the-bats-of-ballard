@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-31T05:49:38.279Z'
+datePublished: '2016-09-02T08:09:53.217Z'
 sourcePath: _posts/2016-08-31-subway-to-your-heart-by-the-bats-of-ballard.md
 isBasedOnUrl: 'http://weedshare.com/p.php?q=336'
 keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-08-31T05:49:37.864Z'
+dateModified: '2016-09-02T08:09:52.729Z'
 title: Subway To Your Heart by The Bats of Ballard
 app_links: []
 publisher:
@@ -23,6 +23,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/7f97c27dabff909fd1ff683b5d26dc15/noop.png?input=http%3A%2F%2Fweedshare.com%2Fuploads%2F5%2Fsubwaytoyourheart-cover.png" /><h1>Subway To Your Heart by The Bats of Ballard</h1></article>
-
-July 2014, Dark Side of the Room
+<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/7f97c27dabff909fd1ff683b5d26dc15/noop.png?input=http%3A%2F%2Fweedshare.com%2Fuploads%2F5%2Fsubwaytoyourheart-cover.png" /><h1>Subway To Your Heart by The Bats of Ballard</h1><p>July 2014, Dark Side of the Room</p></article>

@@ -4,8 +4,15 @@
         <description><![CDATA[Live from the Player's Lounge and beyond...]]></description>
         <link>https://thegrid.ai/the-bats-of-ballard/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 05:52:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2016 08:01:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-bats-of-ballard/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Empires Lost by Bats of Ballard]]></title>
+            <description><![CDATA[<article><h1>Empires Lost by Bats of Ballard</h1><p>February 2016, Leap Bats</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/c81e18c9c500d896e5dc02d366fa9443/noop.png?input=http%3A%2F%2Fweedshare.com%2Fuploads%2F5%2Fcover-empireslost.png"></article>]]></description>
+            <link>http://weedshare.com/p.php?q=421</link>
+            <guid isPermaLink="false">3189df27-7977-49e3-84d0-a2334f4bd3b1</guid>
+            <pubDate>Fri, 02 Sep 2016 08:01:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Only One Way by The Bats of Ballard]]></title>
             <description><![CDATA[<article><h1>Only One Way by The Bats of Ballard</h1><p>August 2014, from the Mirrorball session.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/2d07c40262f18046c5d105aeab3764ff/noop.png?input=http%3A%2F%2Fweedshare.com%2Fuploads%2F5%2Ftpl-laser-mirrorball.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://weedshare.com/p.php?q=365</link>
             <guid isPermaLink="false">7c9d06b2-0434-46a4-bc6e-f590c4ed8d69</guid>
             <pubDate>Wed, 31 Aug 2016 05:50:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Take Your Places by The Bats (of Ballard)]]></title>
-            <description><![CDATA[<article><h1>Take Your Places by The Bats (of Ballard)</h1><p>July 2014, 707 Bats</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/05df50ac5c0ed7d85aa86d3012021b8a/noop.png?input=http%3A%2F%2Fweedshare.com%2Fuploads%2F5%2Fplacesandfaces.png"></article>]]></description>
-            <link>http://weedshare.com/p.php?q=292</link>
-            <guid isPermaLink="false">bacf6d40-6795-4948-97b7-c4442145fb79</guid>
-            <pubDate>Wed, 31 Aug 2016 05:50:14 GMT</pubDate>
         </item>
     </channel>
 </rss>

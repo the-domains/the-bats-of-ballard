@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-31T05:48:23.067Z'
+datePublished: '2016-09-02T08:09:31.708Z'
 sourcePath: _posts/2016-08-31-ahmf-single-by-the-bats-of-ballard.md
 isBasedOnUrl: 'http://weedshare.com/p.php?q=341'
 keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-08-31T05:48:22.691Z'
+dateModified: '2016-09-02T08:09:31.173Z'
 title: AHMF - Single by The Bats of Ballard
 app_links: []
 publisher:
@@ -23,6 +23,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/84128983633006d28542066866825ff5/noop.png?input=http%3A%2F%2Fweedshare.com%2Fuploads%2F5%2Fahmf-single-cover.png" /><h1>AHMF - Single by The Bats of Ballard</h1></article>
-
-September 2014, AHMF
+<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/84128983633006d28542066866825ff5/noop.png?input=http%3A%2F%2Fweedshare.com%2Fuploads%2F5%2Fahmf-single-cover.png" /><h1>AHMF - Single by The Bats of Ballard</h1><p>September 2014, AHMF</p></article>

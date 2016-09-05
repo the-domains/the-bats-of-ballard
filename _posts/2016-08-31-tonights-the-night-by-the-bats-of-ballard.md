@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-31T05:50:47.638Z'
+datePublished: '2016-09-02T08:10:27.423Z'
 sourcePath: _posts/2016-08-31-tonights-the-night-by-the-bats-of-ballard.md
 isBasedOnUrl: 'http://weedshare.com/p.php?q=365'
 keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-08-31T05:50:47.257Z'
+dateModified: '2016-09-02T08:10:26.824Z'
 title: Tonight's The Night by The Bats of Ballard
 app_links: []
 publisher:
@@ -23,6 +23,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/e4af178bfa4d943c96fed31bbeaf46aa/noop.png?input=http%3A%2F%2Fweedshare.com%2Fuploads%2F5%2Fcover-tonightsthenight.png" /><h1>Tonight's The Night by The Bats of Ballard</h1></article>
-
-May 2015, Spring Bats
+<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/e4af178bfa4d943c96fed31bbeaf46aa/noop.png?input=http%3A%2F%2Fweedshare.com%2Fuploads%2F5%2Fcover-tonightsthenight.png" /><h1>Tonight's The Night by The Bats of Ballard</h1><p>May 2015, Spring Bats</p></article>
